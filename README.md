@@ -1,4 +1,4 @@
-# 📖 get_next_line
+# 📖📌🖋️ get_next_line
 
 <p>
   <img src="Score_get_next_line.png" alt="Score get_next_line 100/100" align="left">
